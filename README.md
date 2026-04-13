@@ -16,13 +16,13 @@ This repository has been made to keep all the files and my assignments of CSE 37
 
 [Lab Assignment 3](https://docs.google.com/document/d/1JwfVArKNFWM4LY_zU3EpeCD87-XojiLdHsOmAhQ7_YY/preview?tab=t.0)
 
-========================================================================================================================
+----------------------------------------------------------------------------------------------------------------------
 
 [Lab Slides 2](https://drive.google.com/file/d/164zr440DpagCRCwNKfIBp9E_t2ocz9Au/edit)
 
 [Lab Slides 3](https://drive.google.com/file/d/11Rcl4LvsIrgL_CP4DpQOlzwaVf5GMY4w/edit)
 
-=========================================================================================================================
+---------------------------------------------------------------------------------------------------------------------
 
 [SQL Practice Problems from Past Semester]
 
